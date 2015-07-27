@@ -109,4 +109,12 @@ exports.answer = function(req, res) {
     resultado = 'Correcto';
   }
   res.render('quizes/answer', { quiz: req.quiz, respuesta: resultado});
+<<<<<<< HEAD
 };
+=======
+};
+
+    Status API Training Shop Blog About Help 
+
+    © 2015 GitHub, Inc. Terms Privacy Security
+>>>>>>> bbfa29b6b7a513fd331328d4f6546905cbb231eb
