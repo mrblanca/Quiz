@@ -6,11 +6,11 @@
     "start": "node ./bin/www"
   },
   "engines": {
-    "node": "0.10.35",
-    "npm": "1.4.28"
+    "node": "0.10.x",
+    "npm": "1.4.x"
   },
   "devDependencies": {
-+    "sqlite3": "^3.0.8"
++   "sqlite3": "^3.0.x"
 +  },
   "dependencies": {
     "body-parser": "~1.8.1",
